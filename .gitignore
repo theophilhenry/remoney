@@ -2,6 +2,10 @@
 
 # Local Variable
 .env
+/.firebase
+/.github
+firebase.json
+.firebaserc
 
 # dependencies
 /node_modules
